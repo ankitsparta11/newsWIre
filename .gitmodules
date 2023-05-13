@@ -4,3 +4,6 @@
 [submodule "newsWire-backend"]
 	path = newsWire-backend
 	url = https://github.com/ankitsparta11/newWire-backend.git
+[submodule "bakend"]
+	path = bakend
+	url = https://github.com/ankitsparta11/newWire-backend.git
