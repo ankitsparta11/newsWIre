@@ -1,0 +1,6 @@
+[submodule "newsWire-frontend"]
+	path = newsWire-frontend
+	url = https://github.com/ankitsparta11/newWire-frontend.git
+[submodule "newsWire-backend"]
+	path = newsWire-backend
+	url = https://github.com/ankitsparta11/newWire-backend.git
